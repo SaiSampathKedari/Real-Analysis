@@ -31,5 +31,4 @@ Not all problems from the textbook are solved—some are skipped or deferred to 
 ## Contact
 Feel free to connect with me:
 - **Email**: sampath@umich.edu
-- **LinkedIn**: [Sai Sampath Kedari](www.linkedin.com/in/sai-sampath-kedari)
-
+- **LinkedIn**: www.linkedin.com/in/sai-sampath-kedari
