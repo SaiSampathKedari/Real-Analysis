@@ -5,8 +5,8 @@ This repository contains my **lecture notes** and **exercise solutions** from *K
 ---
 
 ## Key Topics Covered
-1. **Introduction**: Natural numbers, rational numbers, real numbers, completeness axiom.
-2. **Sequences**: Limits, Cauchy sequences, and convergence theorems.
+1. **Introduction**: The Set Natural numbers, Rational numbers, Real numbers, Completeness Axiom, and symbols (+∞, −∞).  
+2. **Sequences**: Limit Theorems, Monotone and Cauchy sequences, Subsequences, lim sup's and lim inf's, Series, and Topological concepts.  
 
 ---
 
