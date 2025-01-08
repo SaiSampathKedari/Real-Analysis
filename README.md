@@ -19,7 +19,7 @@ This repository contains my **lecture notes** and **exercise solutions** from *K
 ---
 
 ## Purpose
-These notes and solutions reflect my effort to strengthen my understanding of Real Analysis, a critical mathematical discipline. My goal is to build a rigorous theoretical foundation that supports advanced topics in **Probability Theory**, **Statistical Inference**, and **Optimization**, which are essential for my future work in **Machine Learning**, **AI**, and **Robotics** research.
+These notes and solutions reflect my effort to strengthen my understanding of Real Analysis, a critical mathematical discipline that forms the foundation for Probability, Statistical Inference, and Machine Learning.
 
 ### Role of Real Analysis
 Real Analysis provides the rigorous mathematical foundation for understanding key concepts in Statistics (such as the Law of Large Numbers, Central Limit Theorem), Convex Optimization, and the Fourier Transform, enabling precise formulation and solution of problems in Machine Learning, AI, and Robotics.
