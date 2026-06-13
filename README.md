@@ -18,6 +18,19 @@ This repository contains my **lecture notes** and **exercise solutions** from *K
 
 ---
 
+## Contents
+
+| Chapter | Topics |
+|---|---|
+| [Ch1 — Introduction](Ch1_Introduction/) | natural, rational, and real numbers; the completeness axiom |
+| [Ch2 — Sequences](Ch2_Sequences/) | limits and limit theorems, monotone & Cauchy sequences, subsequences, lim sup / lim inf, series, metric-space topology |
+| [Ch3 — Continuity](Ch3_Continuity/) | continuous functions and their properties, uniform continuity |
+| [Ch4 — Sequences & Series of Functions](Ch4_Sequences_and_Series_of_Functions/) | uniform convergence |
+
+Each chapter has an `*_Exercises_Solutions/` subfolder. Supplementary references (The Bright Side of Mathematics): [Real Analysis](Real_Analysis_Bright_Side_of_Mathematics.pdf), [Functional Analysis](Functional_Analysis_Bright_Side_of_Mathematics.pdf).
+
+---
+
 ## Purpose
 These notes and solutions reflect my effort to strengthen my understanding of Real Analysis, a critical mathematical discipline that forms the foundation for Probability, Statistical Inference, and Machine Learning.
 
