@@ -41,6 +41,17 @@ Whenever possible, I aim to document my work in LaTeX for clarity and profession
 
 ---
 
+## Related repositories
+
+A sequence building from mathematical foundations toward machine-learning applications:
+
+1. **Real Analysis** — this repo
+2. [Probability and Distribution Theory](https://github.com/SaiSampathKedari/Probability-and-Distribution-Theory)
+3. [Statistical Inference Theory](https://github.com/SaiSampathKedari/Statistical-Inference-Theory)
+4. [Reinforcement Learning](https://github.com/SaiSampathKedari/Reinforcement-Learning)
+
+---
+
 ## Note
 Not all problems from the textbook are solved—some are skipped or deferred to be completed later.
 
